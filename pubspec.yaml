@@ -1,7 +1,7 @@
 name: qdesign
 description: "Q-Design UX Package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/QLineTech/Q-Design
 
 environment:
   sdk: ^3.6.0
@@ -52,3 +52,6 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/to/font-from-package
+
+license: AGPL-3.0
+repository: https://github.com/QLineTech/Q-Design

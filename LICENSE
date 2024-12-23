@@ -1,3 +1,5 @@
+# Dual License
+
 This software is available under two licenses:
 
 1. GNU Affero General Public License v3 (AGPL-3.0)
@@ -7,5 +9,21 @@ This software is available under two licenses:
 
 2. Commercial License
    - Required for commercial use
-   - Contact [your contact information] for licensing terms
+   - Contact [q@qline.tech] for licensing terms
    - Allows proprietary distribution without AGPL requirements
+
+## Personal and Educational Use
+Personal and educational use is permitted under the AGPL-3.0 license without charge. This includes:
+- Individual developers learning or practicing
+- Educational institutions
+- Non-profit organizations
+- Open source projects
+
+## Commercial Use
+Commercial use requires purchasing a commercial license. Commercial use includes:
+- Using the package in a commercial product
+- Using the package in a product that generates revenue
+- Using the package in a business environment
+- Including the package in a paid application
+
+For commercial licensing inquiries, please contact [q@qline.tech]

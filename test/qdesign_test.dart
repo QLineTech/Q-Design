@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:qdesign/qdesign.dart';
+import '../lib/qdesign.dart';
 
 void main() {
   test('adds one to input values', () {
